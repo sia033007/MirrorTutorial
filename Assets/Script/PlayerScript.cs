@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using Mirror;
 
-public class NetworkManager : NetworkBehaviour
+public class PlayerScript : NetworkBehaviour
 {
-    [Client]
     private void Update() {
         if(isLocalPlayer){
             float horizpntalmove = Input.GetAxis ("Horizontal");
