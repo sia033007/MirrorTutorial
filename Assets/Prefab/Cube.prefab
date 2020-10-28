@@ -106,9 +106,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneId: 3373776295
+  sceneId: 0
   serverOnly: 0
-  m_AssetId: 
+  m_AssetId: 6a8110cebd11e0648b8f7e9137564847
   hasSpawned: 0
 --- !u!114 &6179814712158038265
 MonoBehaviour:

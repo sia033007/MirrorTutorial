@@ -20,4 +20,5 @@ public class MyNetworkManager : NetworkManager
     public override void OnClientDisconnect(NetworkConnection conn){
         Debug.Log("Disconnected from Srever!");
     }
+    
 }
