@@ -6,12 +6,18 @@ using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
+    public Button registerButton;
+    public Button loginButton;
+    public Button playButton;
     public Text playerDisplay;
     private void Start() {
         if(DBManager.LoggeIn)
         {
             playerDisplay.text = "Player : " + DBManager.username;
         }
+        registerButton.interactable = !DBManager.LoggeIn;
+        loginButton.interactable = !DBManager.LoggeIn;
+        playButton.interactable = DBManager.LoggeIn;
         
     }
     public void GoToRegister()
@@ -22,5 +28,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+    public void GoToGame()
+    {
+        SceneManager.LoadScene(3);
+    }
+   
    
 }

@@ -583,6 +583,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b5852f44cf123643b56c07387e8bab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  registerButton: {fileID: 394948736}
+  loginButton: {fileID: 1206957438}
+  playButton: {fileID: 1468519473}
   playerDisplay: {fileID: 878851614}
 --- !u!1 &534669902
 GameObject:
@@ -965,7 +968,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1468519474}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 470910022}
+        m_MethodName: GoToGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1468519474
