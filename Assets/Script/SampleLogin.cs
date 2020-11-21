@@ -26,6 +26,7 @@ public class SampleLogin : MonoBehaviour
             {
                 DBManager.username = nameField.text;
                 DBManager.score = int.Parse(request.downloadHandler.text.Split('\t')[1]);
+                DBManager.level = int.Parse(request.downloadHandler.text.Split('\t')[2]);
                 Debug.Log("Log in successfully!");
 
 

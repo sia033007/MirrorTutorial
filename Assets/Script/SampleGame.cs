@@ -8,10 +8,12 @@ public class SampleGame : MonoBehaviour
 {
     public Text userDisplay;
     public Text scoreDisplay;
+    public Text levelDisplay;
 
     private void Awake() {
         userDisplay.text = "Username : " + DBManager.username;
         scoreDisplay.text = "Score : " + DBManager.score;
+        levelDisplay.text = "Level : " + DBManager.level;
     }
     public void saveData()
     {
@@ -22,6 +24,7 @@ public class SampleGame : MonoBehaviour
         WWWForm form = new WWWForm();
         form.AddField("name",DBManager.username);
         form.AddField("score",DBManager.score);
+        form.AddField("level",DBManager.level);
         using(UnityWebRequest request = UnityWebRequest.Post("http://localhost/UnityMySQLTutorial/samplegame.php",form))
         {
             yield return request.SendWebRequest();
@@ -39,6 +42,11 @@ public class SampleGame : MonoBehaviour
     {
         DBManager.score++;
         scoreDisplay.text = "Score : " + DBManager.score;
+    }
+    public void increaseLevel()
+    {
+        DBManager.level++;
+        levelDisplay.text = "Level : " + DBManager.level;
     }
     
 }
