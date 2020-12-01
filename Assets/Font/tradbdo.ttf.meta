@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fc6d636900929c742b83d135889d8b2f
+timeCreated: 1585989387
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Traditional Arabic
+  fontNames:
+  - Traditional Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77341c8514b9b0d4ea85c72b31587c3c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 525f4a4b6e9c066418bf9cfd8df73544
+timeCreated: 1585988456
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kohneh2 Outline
+  fontNames:
+  - F_kohneh2 Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

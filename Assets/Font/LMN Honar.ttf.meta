@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 69f7bcfb6b039f149a625ee53e41f609
+timeCreated: 1585988360
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Honar
+  fontNames:
+  - LMN Honar
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

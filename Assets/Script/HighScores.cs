@@ -5,8 +5,8 @@ using UnityEngine.Networking;
 
 public class HighScores : MonoBehaviour
 {
-    const string privateCode = "kutRFHcbuE2RLlvQCTsk8g5Baka_-iZUOq067lCKr47A";
-    const string publicCode = "5fb8a95feb36fd2714d1e578";
+    const string privateCode = "9iXRUckajUOM1iq60VfHXARYwtNgkhTkatgM_NZ-IAjg";
+    const string publicCode = "5fba1d5deb36fd2714d9a0e7";
     const string webURL = "http://dreamlo.com/lb/";
     public Highscore[] highscoreslist;
     DisplayHighscores highscoresDisplay;

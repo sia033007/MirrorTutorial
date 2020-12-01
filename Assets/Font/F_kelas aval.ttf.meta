@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 72184e5e92b6fce4997516205b0a07f0
+timeCreated: 1585988458
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kelas aval
+  fontNames:
+  - F_kelas aval
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

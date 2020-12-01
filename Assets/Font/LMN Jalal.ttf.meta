@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1decedc706ccb7a458985844011e324b
+timeCreated: 1585988358
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Jalal
+  fontNames:
+  - LMN Jalal
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

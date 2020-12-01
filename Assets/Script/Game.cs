@@ -38,7 +38,7 @@ public class Game : MonoBehaviour
                 Debug.Log("Save failed" + request.downloadHandler.text);
             }
             DBManager.LogOut();
-            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+            UnityEngine.SceneManagement.SceneManager.LoadScene(4);
 
         }
     }

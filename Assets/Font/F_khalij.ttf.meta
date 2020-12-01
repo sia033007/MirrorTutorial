@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 56bb21d6a0e5dbd4d83d22fc2841e413
+timeCreated: 1585988457
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_khalij
+  fontNames:
+  - F_khalij
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0e72b50e2f4d6fd409688f1d7cb21276
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Bardiya
+  fontNames:
+  - B Bardiya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04ddc32199d39bc498649c80c8309d71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

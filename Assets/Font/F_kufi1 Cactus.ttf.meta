@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d151f3d536677f545a46f645e8a91841
+timeCreated: 1585988461
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kufi1 Cactus
+  fontNames:
+  - F_kufi1 Cactus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: efbe227c336b33e4fb630892ea2a7fc0
+timeCreated: 1585988367
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Hesab Italic
+  fontNames:
+  - LMN Hesab Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

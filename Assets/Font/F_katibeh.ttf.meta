@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f4ff61b01ed36aa4084080b9ca98d46c
+timeCreated: 1585988463
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_katibeh
+  fontNames:
+  - F_katibeh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

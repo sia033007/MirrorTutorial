@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4b93c9b60dc34b24792632a6e242e33b
+timeCreated: 1585988360
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Hesam Light
+  fontNames:
+  - LMN Hesam Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5924e269bd190aa44a36c26dace54fc2
+timeCreated: 1585989369
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sylfaen
+  fontNames:
+  - Sylfaen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

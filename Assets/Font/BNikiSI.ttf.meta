@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eb5541b6e3a5f9a4a90236e3b2ea345a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Niki Shadow
+  fontNames:
+  - B Niki Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: df3fb1c0b9ff1574aa54302e771f174e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

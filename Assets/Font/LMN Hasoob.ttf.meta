@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 43ed2b8c5ba4fa8468c67783ffc2ea33
+timeCreated: 1585988359
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Hasoob
+  fontNames:
+  - LMN Hasoob
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

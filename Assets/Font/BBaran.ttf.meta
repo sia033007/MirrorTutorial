@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 24795c6e33ab1564bab74e6e3c8811c3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Baran
+  fontNames:
+  - B Baran
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e927350f3e32d5499b47ce207926fed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

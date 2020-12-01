@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 97921e0f086ee8849ba25587d7d61dcd
+timeCreated: 1585988459
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_khoramshahr Bold
+  fontNames:
+  - F_khoramshahr Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eeea1c1a3091a544ca31e5fde5143812
+timeCreated: 1585988366
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Jarideh
+  fontNames:
+  - LMN Jarideh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9fe7490133f8c8c45a672a797bdc6e7d
+timeCreated: 1585988363
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Hosseini Italic
+  fontNames:
+  - LMN Hosseini Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

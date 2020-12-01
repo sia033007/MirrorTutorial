@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fab0f5b5c2af5ea48a392f959e341056
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Compset
+  fontNames:
+  - B Compset
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bed17962dd34baf4fb0eb2869681fffc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

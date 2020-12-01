@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e25b0c05ea23845479d5321b1db4d5d2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Elm
+  fontNames:
+  - B Elm
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c7af8ba358b1d7e428e5455af7f32f10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

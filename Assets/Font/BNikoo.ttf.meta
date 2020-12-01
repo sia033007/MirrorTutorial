@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 52090718cb438bd4b994fc2c8e1f2b43
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Nikoo
+  fontNames:
+  - B Nikoo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f0d57c8b338ef5439d40c0ca72807b8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

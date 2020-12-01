@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d1ce71d21f9cb34eb7b3e05f2280cd6
+timeCreated: 1585988459
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kohneh Shade
+  fontNames:
+  - F_kohneh Shade
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

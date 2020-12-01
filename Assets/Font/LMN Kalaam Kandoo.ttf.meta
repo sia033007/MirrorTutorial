@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b9c213918dff5fe4d80964257cb01c5a
+timeCreated: 1585988364
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Kalaam Kandoo
+  fontNames:
+  - LMN Kalaam Kandoo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

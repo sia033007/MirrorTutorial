@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 976765f7a4d7e9d4997ee5ab07931c4a
+timeCreated: 1585988362
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Jarrahi Shade
+  fontNames:
+  - LMN Jarrahi Shade
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

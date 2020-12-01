@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 13d8bf5daf5779e4b85d24ae7be87d21
+timeCreated: 1585988357
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMN Hosseini Bold
+  fontNames:
+  - LMN Hosseini Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

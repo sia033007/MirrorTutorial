@@ -5,11 +5,16 @@ using UnityEngine.UI;
 
 public class TestHighscore : MonoBehaviour
 {
-    public int score =50;
+    public GameObject highscoreObject;
     public InputField userInput;
-
-    public void UpdateHighscore()
+    public void Savescore() {
+        HighScores.AddNewHighscore(userInput.text,DBManager.score);
+        StartCoroutine(disableObject());
+        
+    }
+    IEnumerator disableObject()
     {
-        HighScores.AddNewHighscore(userInput.text,score);
+        yield return new WaitForSeconds(1f);
+        highscoreObject.SetActive(false);
     }
 }
